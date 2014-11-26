@@ -1,6 +1,9 @@
 node-demo-addressbook [![Build Status](https://secure.travis-ci.org/mrcrgl/node-demo-addressbook.png)](http://travis-ci.org/mrcrgl/node-demo-addressbook)
 =====================
 
+Getestet unter
+- Mac OS X
+- Linux (via Travis-CI)
 
 Installation und Inbetriebnahme:
 -------------
