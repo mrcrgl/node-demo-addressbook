@@ -20,7 +20,8 @@
   },
   "readmeFilename": "README.md",
   "scripts": {
-    "test": "vows --spec --isolate ./test/*"
+    "test": "vows --spec --isolate ./test/*",
+    "start": "node bin/start.js"
   },
   "license": "MIT"
 }

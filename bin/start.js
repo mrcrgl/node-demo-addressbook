@@ -2,7 +2,7 @@
 
 (function(module) {
 
-  var startHTTPd = require('./httpd').start;
+  var startHTTPd = require('../httpd').start;
 
   /**
    * Just for cosmetics
