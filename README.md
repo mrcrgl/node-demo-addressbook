@@ -2,7 +2,7 @@ node-demo-addressbook [![Build Status](https://secure.travis-ci.org/mrcrgl/node-
 =====================
 
 
-Installation:
+Installation und Inbetriebnahme:
 -------------
 
 ```bash
@@ -12,3 +12,5 @@ $ npm install
 $ npm run-script test
 $ npm run-script start
 ```
+
+Mit besten Grüßen
