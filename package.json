@@ -1,0 +1,26 @@
+{
+  "name": "addressbook",
+  "description": "Task",
+  "version": "0.1.0",
+  "author": "Marc Riegel <mail@marclab.de>",
+  "homepage": "https://github.com/mrcrgl/node-task-addressbook",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mrcrgl/node-task-addressbook.git"
+  },
+  "main": "./index",
+  "devDependencies": {
+    "vows": "*"
+  },
+  "dependencies": {
+    "express": "4.*"
+  },
+  "engines": {
+    "node": ">=0.10 <0.12"
+  },
+  "readmeFilename": "README.md",
+  "scripts": {
+    "test": "vows --spec --isolate ./test/*"
+  },
+  "license": "MIT"
+}
